@@ -1,0 +1,6 @@
+{
+  "name": "leetcode-dislikes",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
